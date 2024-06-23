@@ -1,0 +1,197 @@
+.g1{
+margin-top: -496px;
+    margin-left: 450px;
+}
+.f1{
+    background-color: rgb(162, 153, 153);
+    margin-top: 220px;
+    width: 290px;
+    padding: 10px;
+    font-size: x-large;
+    margin-left: 120px;
+    margin-right: 900px;
+}
+.nav1{
+    position: absolute;
+    font-size: 130%; 
+    display:inline;
+    left: 70%;
+    color: rgb(1, 0, 0);
+    top: 1%;
+ 
+    font-size: 30px;   list-style-type: none;
+}
+
+.nav2{
+        position: absolute;
+        font-size: 130%; 
+        display:inline;
+        left: 80%;
+        color: rgb(1, 0, 0);
+        top: 1%;
+        list-style-type: none;
+        font-size: 30px;
+    }
+ .nav3{
+        text-decoration: none;
+        position: absolute;
+        font-size: 130%; 
+        display:inline;
+        left: 87%;
+        color: rgb(101, 14, 14);
+        top: 1%;
+        list-style-type: none;
+        font-size: 30px;
+    }
+    .c21{
+        height: 40px;
+        width: 170px;
+        margin-bottom: 30px;
+    }
+    #i1{
+        width: 200px;
+    }
+    data{
+        margin-top: 1px;
+    }
+    .fname{
+        font-size: x-large;
+        width: 240px;
+    }
+    .d11{
+        margin-top: 1px;
+    }
+    .d22{
+        margin-top: -115px;
+        margin-left: 150px;
+    }
+    .di2{
+        background-color: rgb(239, 255, 98);
+        height: 200px;
+        margin-top: 40px;
+    }
+    .nav4{
+        position: absolute;
+    font-size: 130%; 
+    display:inline;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    left: 25%;
+    color: rgb(230, 13, 13);
+    top: 1%;
+    margin-bottom: 300px;
+ 
+    font-size: 60px; 
+      list-style-type: none;
+    }
+    .box12{
+        margin-top: 50px;
+        margin-left: 230px;
+        height: 300px;
+        padding: 10px;
+        color: yellowgreen;
+
+        background-color: white;
+        width: 500px;
+        color:rgb(255, 15, 15);
+        border-radius: 10px 10px 10px 10px;
+    }
+    button{
+        width: 100px;
+        height: 60px;
+        color:rgb(255, 15, 15);
+        counter-reset: red;
+        border-radius: 30px 30px 30px 30px;
+
+    }
+    .di2{
+        display: flex;
+        position: relative;
+        height: 390px;
+    background-color: rgb(251, 230, 167);
+    padding:10px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
+    }
+    .qbox1{
+        width: 200px;padding: 20px;margin-top: -20px;
+    }
+    .qbox2{
+        width: 200px;padding: 20px;margin-top: -20px;
+    }
+    .qbox3{
+        width: 200px;padding: 20px;margin-top: -20px;
+    }
+   .di3{
+    display: flex;
+    height: 390px;
+    background-color: bisque;
+    padding: 10px 10px 10px  10px;
+    margin: 10px 10px 10px 10px;
+   }
+   .di4{
+    display: flex;height: 350px;
+    background-color:cadetblue;
+    padding: 10px 10px 10px  10px;
+    margin: 10px 10px 10px 10px;
+   }
+   
+   .g12{margin-top: -10px;
+    margin-left: 500px;
+    margin-bottom: 50px;
+    position: absolute;
+
+  }
+  .g13{margin-top: -30px;
+    margin-left: 500px;
+    margin-bottom: 50px;
+    padding: 10px;
+    width: 50px;
+    position: absolute;
+
+  }
+  .qbox1{
+    margin-left: 30px;
+    margin-top: 40px;
+    margin-right: 20px;
+   }
+   .qbox2{
+    margin-left: 90px;
+    margin-top: 40px;
+    margin-right: 20px;
+   }
+   .qbox3{
+    margin-left: 100px;
+    margin-top: 40px;
+    margin-right: 10px;
+   }
+   .qbox12{
+
+    margin-left: 150px;
+    margin-top: 54px;
+    margin-right: 30px;}
+    .di3{ display: flex;
+        position: relative;
+        height: 360px;
+    background-color: rgb(207, 207, 207);
+    padding:10px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
+   }
+   .qbox4{
+    margin-left: 45px;
+    margin-top: 40px;
+    margin-right: 20px;
+   }
+   .qbox5{  
+    margin-left: 20px;
+    margin-top: 40px;
+    margin-right: 20px;
+   }
+   .qbox6{
+    margin-left: 20px;
+    margin-top: 40px;
+    margin-right: 10px;
+   }
+   .qbox13{
+
+    margin-left: 20px;
+    margin-top: 41px;
+    margin-right: 30px;}
